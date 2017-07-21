@@ -33,7 +33,16 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-
+create_country_leader = {
+	name = "Ur Nan"
+	desc = "POLITICS_IKR_LEADER_DESC"
+	picture = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	#
+	}
+}
 set_convoys = 5
 
 #Victor Emmanuel III of Italy after 39
